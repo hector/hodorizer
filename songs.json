@@ -1,6 +1,19 @@
 [
-  {"artist": "Camela", "song": "Pepito de los palotes", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},
-  {"artist": "David Bisbal", "song": "Buleria, buleria", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},
-  {"artist": "Koala", "song": "Opa yo vi ace un corra", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},
-  {"artist": "Mr. Sanklapsh", "song": "Gullati giultatinino", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"}
+  {"artist": "Camela", 
+    "song": "Pepito de los palotes", 
+    "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M",
+    "cover": "cover.jpg"
+  },
+  {"artist": "David Bisbal",
+    "song": "Buleria, buleria",
+    "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M",
+      "cover": "cover.jpg"},
+  {"artist": "Koala",
+    "song": "Opa yo vi ace un corra",
+    "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M",
+      "cover": "cover.jpg"},
+  {"artist": "Mr. Sanklapsh",
+    "song": "Gullati giultatinino",
+    "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M",
+    "cover": "cover.jpg"}
 ]
