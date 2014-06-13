@@ -5,13 +5,13 @@ body {
 
 .header {
   text-align: center;
-  color: #E6E9ED;
+  color: #434A54;
 }
 
 ul.song-box {         
     padding:20px 0 0 0;
     margin:20px 0 0 0;
-    background-color: #E6E9ED;
+    background-color: #434A54;
 }
 
 ul.song-box li {     
@@ -51,12 +51,12 @@ ul.song-box li {
   bottom: 0;
   margin-top: 20px;
   height: 50px;
-  border-top: 1px solid #AAB2BD;
+  border-top: 1px solid #F5F7FA;
   color: #E6E9ED;
 }
 
 #footer a, #footer p {
-  color: #AAB2BD;
+  color: #F5F7FA;
 }
 
 #footer .align-right {
