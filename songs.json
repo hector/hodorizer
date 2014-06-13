@@ -2,241 +2,241 @@
     {
         "song": "Dancing Queen", 
         "artist": "Abba",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=LRcfdSlCcCg",
         "cover": "Dancing_Queen.jpg"
-    }, 
-    {
-        "song": "Highway To Hell", 
-        "artist": "Ac/dc",
-        "youtube_url": "",
-        "cover": "Highway_To_Hell.jpg"
     }, 
     {
         "song": "Fallin'", 
         "artist": "Alicia Keys",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=Y3Ba3t7PBi8",
         "cover": "Fallin.jpg"
     }, 
     {
         "song": "Sweet Dreams", 
         "artist": "Annie Lennox",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=6unEclcrQ18",
         "cover": "annie.jpg"
     }, 
     {
         "song": "Barbie Girl", 
         "artist": "Aqua",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=vJQLWm1sRiI",
         "cover": "Aquabarbie.jpg"
     }, 
     {
         "song": "Complicated", 
         "artist": "Avril Lavigne",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=6K1NbTX-GTE",
         "cover": "Complicated.jpg"
     }, 
     {
         "song": "I Want It That Way", 
         "artist": "Backstreet Boys",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=9sWCUeQDFyw",
         "cover": "backstreet_boys.jpg"
     }, 
     {
         "song": "Yesterday", 
         "artist": "The Beatles",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=PKezpoU889A",
         "cover": "Yesterday.jpg"
     }, 
     {
         "song": "Ain't No Sunshine", 
         "artist": "Bill Withers",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=CWW-PwJANV8",
         "cover": "Aint_No_Sunshine.jpg"
     }, 
     {
         "song": "Summer of '69", 
         "artist": "Bryan Adams",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=6wHQok2TvTA",
         "cover": "Bryan_Adams.jpg"
     }, 
     {
         "song": "Kung Fu Fighting", 
         "artist": "Carl Douglas",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=YWYfggaTlDk",
         "cover": "Kung_Fu_Fighting.jpg"
     }, 
     {
         "song": "Smoke On The Water", 
         "artist": "Deep Purple",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=VsOmc8lQN5g",
         "cover": "smoke.jpg"
     }, 
     {
         "song": "Survivor", 
         "artist": "Destiny's Child",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=UJbFt-m_2Nc",
         "cover": "Survivor.jpg"
     }, 
     {
         "song": "White Flag",
         "artist": "Dido",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=uxHXNf4m0BI",
         "cover": "White_Flag.jpg"
     }, 
     {
         "song": "Suspicious Minds", 
         "artist": "Elvis Presley",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=0RB7TrVDw2Q",
         "cover": "Suspicious_Minds.jpg"
     }, 
     {
         "song": "Bring me to life", 
         "artist": "Evanecense",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=R83PnQ4qcXY",
         "cover": "evanescence.jpg"
     }, 
     {
         "song": "Careless Whisper", 
         "artist": "George Michael",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=qNsbKwBOk08",
         "cover": "Careless_Whisper.jpg"
-    }, 
-    {
-        "song": "Wake me up...",
-        "artist": "Green Day",
-        "youtube_url": "",
-        "cover": "Wake_Me_Up.jpg"
     }, 
     {
         "song": "The Reason", 
         "artist": "Hoobastank",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=nkDEzQ27VNM",
         "cover": "The_Reason.jpg"
     }, 
     {
         "song": "Fear Of The Dark", 
         "artist": "Iron Maiden",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=_53bNRpSHS4",
         "cover": "Fear_Of_The_Dark.jpg"
     }, 
     {
         "song": "You're Beautiful", 
         "artist": "James Blunt",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=w3YnR3QP_-Q",
         "cover": "Youre_Beautiful.jpg"
     }, 
     {
         "song": "Behind blue eyes", 
         "artist": "Limp Bizkit",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=W4yl1VAhjhM",
         "cover": "Behind_Blue_Eyes.jpg"
     }, 
     {
         "song": "Numb", 
         "artist": "Linkin Park",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=v2jvaMImNW0",
         "cover": "Numb.jpg"
     }, 
     {
         "song": "Nothing Else Matters", 
         "artist": "Metallica",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=HQwiY5_koGw",
         "cover": "Metallica_Else.jpg"
     }, 
     {
         "song": "The Unforgiven I", 
         "artist": "Metallica",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=WkHOEtUmiLM",
         "cover": "Metallica.jpg"
     }, 
     {
         "song": "Rape Me", 
         "artist": "Nirvana",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=1_lksopzTyM",
         "cover": "Rape_Me.jpg"
     }, 
     {
         "song": "Smells Like Teen Spirit", 
         "artist": "Nirvana",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=JgitmRRaygI",
         "cover": "Nirvana-SLTS.jpg"
     }, 
     {
         "song": "Wonderwall", 
         "artist": "Oasis",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=cUrQgAEH02U",
         "cover": "oasis-wonderwall-61615.jpg"
     }, 
     {
         "song": "Don't Cha (Radio Edit)", 
         "artist": "Pussycat Dolls",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=Nd5rt3R3E-A",
         "cover": "pussycat.jpg"
     }, 
     {
         "song": "We are the Champions", 
         "artist": "Queen",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=e9Nxu9bWwvk",
         "cover": "Queen.jpg"
     }, 
     {
         "song": "Engel (english Version)", 
         "artist": "Rammstein",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=-yslEpUTQzc",
         "cover": "ramstein.jpg"
     }, 
     {
         "song": "Livin' La Vida Loca", 
         "artist": "Ricky Martin",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=yPdm-ST40o8",
         "cover": "Livin_La_Vida_Loca.jpg"
     }, 
     {
         "song": "Whenever wherever", 
         "artist": "Shakira",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=173_1z4pnY4",
         "cover": "Shakira_-_Whenever_Wherever.jpg"
     }, 
     {
         "song": "Born to be wild", 
         "artist": "Steppenwolf",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=m2MVzlmUVlw",
         "cover": "steppenwolf-born-wild-1.jpg"
     }, 
     {
         "song": "Chop Suey", 
         "artist": "System Of A Down",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=L8Ko5U1sH34",
         "cover": "system_down_chop_suey.jpg"
     }, 
     {
         "song": "Lola", 
         "artist": "The Kinks",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=JB099MjWABw",
         "cover": "Kinks_Lola_Uk_Cover.jpg"
     }, 
     {
         "song": "Every Breath You Take", 
         "artist": "The Police",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=z_P4L7C6kto",
         "cover": "Every_Breath_You_Take.jpg"
     }, 
     {
         "song": "YMCA", 
         "artist": "The Village People",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=CUEddwuPbf0",
         "cover": "YMCA_single_cover.jpg"
     }, 
     {
         "song": "With or without you", 
         "artist": "U2",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=HjyXMk3jsiI",
         "cover": "u2.jpg"
     }, 
     {
         "song": "One moment in time", 
         "artist": "Whitney Houston",
-        "youtube_url": "",
+        "youtube_url": "https://www.youtube.com/watch?v=VDOdC-ABLPk",
         "cover": "One_Moment_In_Time.jpg"
+    }, 
+    {
+        "song": "My heart will go on", 
+        "artist": "Celine Dion",
+        "youtube_url": "https://www.youtube.com/watch?v=HUl5kBiTnko",
+        "cover": "Celine_Dion_My_Heart_Will_Go_On_11_cover_b.jpg"
+    }, 
+    {
+        "song": "Tears in Heaven", 
+        "artist": "Eric Clapton",
+        "youtube_url": "https://www.youtube.com/watch?v=N9CGDbBJeT8",
+        "cover": "EricClaptonTears.jpg"
     }
 ]
