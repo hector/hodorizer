@@ -70,10 +70,7 @@
     <script>
       var songs = null
       $( document ).ready(function() {
-        // $.getJSON("songs.json", loadSongs)
-        var json = '[{"artist": "Camela", "song": "Pepito de los palotes", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "David Bisbal", "song": "Buleria, buleria", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "Koala", "song": "Opa yo vi ace un corra", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "Mr. Sanklapsh", "song": "Gullati giultatinino", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"}]'
-        songs = $.parseJSON(json)
-        loadSongs(songs)
+        $.getJSON("songs.json", loadSongs)
         $("#input-search").keyup(filterSongs)
         effectFadeIn('#subtitle', 200);      
       });
