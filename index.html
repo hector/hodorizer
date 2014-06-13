@@ -68,7 +68,7 @@
     <script type="text/javascript" src="js/bootstrap.youtubepopup.min.js"></script>    
     <script type="text/javascript" src="js/site.js"></script>
     <script>
-      var songs = null
+      var global_songs = null
       $( document ).ready(function() {
         $('body').css('background-image', 'url(img/bg.jpg)').css('background-repeat', 'no-repeat').css('background-position', 'center center').css('background-attachment', 'fixed').css('-webkit-background-size', 'cover').css('-moz-background-size', 'cover').css('-o-background-size', 'cover').css('background-size', 'cover')
         $.getJSON("songs.json", loadSongs)
