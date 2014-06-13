@@ -13,8 +13,10 @@ function playerHoverOut(event) {
 function loadSongs(songs) {
   $.each(songs, function(index, song) {
     song.id = 'song_'+index
-    $('<li id="'+song.id+'" class="col-lg-2 col-md-2 col-sm-3 col-xs-4"><div class="player"><a class="cover-img youtube" href="'+song.youtube_url+'"><img src="img/'+song.cover+'" alt="cover" class="img-thumbnail"></a><div class="track-info"><p class="artist">'+song.artist+'</p><p class="song">'+song.song+'</p></div></div></li>').appendTo('#song-list')
+    if (song.cover != "") {
+      $('<li id="'+song.id+'" class="col-lg-2 col-md-2 col-sm-3 col-xs-4"><div class="player"><a class="cover-img youtube" href="'+song.youtube_url+'"><img src="img/covers/'+song.cover+'" alt="cover" class="img-thumbnail"></a><div class="track-info"><p class="artist">'+song.artist+'</p><p class="song">'+song.song+'</p></div></div></li>').appendTo('#song-list')
     $('#'+song.id)
+    }
   })
   $('.player .cover-img img').hover(playerHoverIn, playerHoverOut)
   $(".youtube").YouTubeModal({autoplay:1, width:640, height:480});

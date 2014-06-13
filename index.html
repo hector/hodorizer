@@ -71,6 +71,7 @@
       var songs = null
       $( document ).ready(function() {
         $('body').css('background-image', 'url(img/bg.jpg)').css('background-repeat', 'no-repeat').css('background-position', 'center center').css('background-attachment', 'fixed').css('-webkit-background-size', 'cover').css('-moz-background-size', 'cover').css('-o-background-size', 'cover').css('background-size', 'cover')
+        $.getJSON("songs.json", loadSongs)
         $("#input-search").keyup(filterSongs)
         effectFadeIn('#subtitle', 200);      
       });
