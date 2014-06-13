@@ -24,7 +24,7 @@ function loadSongs(songs) {
 function filterSongs(event) {
   var text = this.value
   var exp = new RegExp(text, 'i')
-  $.each(songs, function(index, song) {
+  $.each(global_songs, function(index, song) {
     var s = $('#'+song.id)
     if (exp.test(song.artist) || exp.test(song.song)) {
       if (!s.is(":visible")) s.fadeIn()
