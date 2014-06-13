@@ -9,7 +9,7 @@
         "song": "Highway To Hell", 
         "artist": "Ac/dc",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Highway_To_Hell.jpg"
     }, 
     {
         "song": "Fallin'", 
@@ -21,13 +21,13 @@
         "song": "Sweet Dreams", 
         "artist": "Annie Lennox",
         "youtube_url": "",
-        "cover": ""
+        "cover": "annie.jpg"
     }, 
     {
         "song": "Barbie Girl", 
         "artist": "Aqua",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Aquabarbie.jpg"
     }, 
     {
         "song": "Complicated", 
@@ -39,7 +39,7 @@
         "song": "I Want It That Way", 
         "artist": "Backstreet Boys",
         "youtube_url": "",
-        "cover": ""
+        "cover": "backstreet_boys.jpg"
     }, 
     {
         "song": "Yesterday", 
@@ -57,7 +57,7 @@
         "song": "Summer of '69", 
         "artist": "Bryan Adams",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Bryan_Adams.jpg"
     }, 
     {
         "song": "Kung Fu Fighting", 
@@ -69,7 +69,7 @@
         "song": "Smoke On The Water", 
         "artist": "Deep Purple",
         "youtube_url": "",
-        "cover": ""
+        "cover": "smoke.jpg"
     }, 
     {
         "song": "Survivor", 
@@ -78,7 +78,7 @@
         "cover": "Survivor.jpg"
     }, 
     {
-        "song": "White Flag", 
+        "song": "White Flag",
         "artist": "Dido",
         "youtube_url": "",
         "cover": "White_Flag.jpg"
@@ -93,7 +93,7 @@
         "song": "Bring me to life", 
         "artist": "Evanecense",
         "youtube_url": "",
-        "cover": ""
+        "cover": "evanescence.jpg"
     }, 
     {
         "song": "Careless Whisper", 
@@ -141,13 +141,13 @@
         "song": "Nothing Else Matters", 
         "artist": "Metallica",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Metallica_Else.jpg"
     }, 
     {
         "song": "The Unforgiven I", 
         "artist": "Metallica",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Metallica.jpg"
     }, 
     {
         "song": "Rape Me", 
@@ -159,31 +159,31 @@
         "song": "Smells Like Teen Spirit", 
         "artist": "Nirvana",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Nirvana-SLTS.jpg"
     }, 
     {
         "song": "Wonderwall", 
         "artist": "Oasis",
         "youtube_url": "",
-        "cover": ""
+        "cover": "oasis-wonderwall-61615.jpg"
     }, 
     {
         "song": "Don't Cha (Radio Edit)", 
         "artist": "Pussycat Dolls",
         "youtube_url": "",
-        "cover": ""
+        "cover": "pussycat.jpg"
     }, 
     {
         "song": "We are the Champions", 
         "artist": "Queen",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Queen.jpg"
     }, 
     {
         "song": "Engel (english Version)", 
         "artist": "Rammstein",
         "youtube_url": "",
-        "cover": ""
+        "cover": "ramstein.jpg"
     }, 
     {
         "song": "Livin' La Vida Loca", 
@@ -195,25 +195,25 @@
         "song": "Whenever wherever", 
         "artist": "Shakira",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Shakira_-_Whenever_Wherever.jpg"
     }, 
     {
         "song": "Born to be wild", 
         "artist": "Steppenwolf",
         "youtube_url": "",
-        "cover": ""
+        "cover": "steppenwolf-born-wild-1.jpg"
     }, 
     {
         "song": "Chop Suey", 
         "artist": "System Of A Down",
         "youtube_url": "",
-        "cover": ""
+        "cover": "system_down_chop_suey.jpg"
     }, 
     {
         "song": "Lola", 
         "artist": "The Kinks",
         "youtube_url": "",
-        "cover": ""
+        "cover": "Kinks_Lola_Uk_Cover.jpg"
     }, 
     {
         "song": "Every Breath You Take", 
@@ -225,13 +225,13 @@
         "song": "YMCA", 
         "artist": "The Village People",
         "youtube_url": "",
-        "cover": ""
+        "cover": "YMCA_single_cover.jpg"
     }, 
     {
         "song": "With or without you", 
         "artist": "U2",
         "youtube_url": "",
-        "cover": ""
+        "cover": "u2.jpg"
     }, 
     {
         "song": "One moment in time", 
