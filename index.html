@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hodorizer</title>
+    
+    <!-- Icons -->
+    <!--link rel="shortcut icon" href="favicon_16.ico"/>
+    <link rel="bookmark" href="favicon_16.ico"/-->
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/site.css"> 
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      
+      <div class="header">
+        <h1>Hodorizer</h1>
+        <p id="subtitle" class="lead">Hodor, hodor, hodor!!!</p>
+      </div>
+      
+      <div class="row">
+        <div class="col-xs-4 col-xs-offset-4">
+          <form role="form">
+            <div class="input-group">
+              <input id="input-search" type="search" class="form-control" id="search-input" placeholder="Search...">
+              <span class="input-group-btn">
+                <button class="btn btn-primary" type="button">Go!</button>
+              </span>            
+            </div>
+          </form>
+        </div>
+      </div><!-- search -->
+        
+      <ul id="song-list" class="row song-box border-top-radius">                                                                                          
+      </ul>
+      
+      <div id="footer" class="row">
+        <div class="col-xs-8">
+          <p>Hack by 
+            <a href="http://www.sankalpgulati.in" target="_blank">Sankalp Gulati</a>, 
+            <a href="http://www.jordihidalgo.com" target="_blank">Jordi Hidalgo</a>, 
+            <a href="http://www.vjewalikar.in" target="_blank">Varun Jewalikar</a> and 
+            <a href="http://hector.parra.cat" target="_blank">Hector Parra</a>
+          </p>
+        </div>
+        <div class="col-xs-4 align-right  ">
+          <a href="http://new.musichackday.org/2014/barcelona/">Music Hack Day 2014 Barcelona</a>
+        </div>        
+      </div>
+
+    </div><!-- /.container -->     
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include individual files as needed -->
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.youtubepopup.min.js"></script>    
+    <script type="text/javascript" src="js/site.js"></script>
+    <script>
+      var songs = null
+      $( document ).ready(function() {
+        // $.getJSON("songs.json", loadSongs)
+        var json = '[{"artist": "Camela", "song": "Pepito de los palotes", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "David Bisbal", "song": "Buleria, buleria", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "Koala", "song": "Opa yo vi ace un corra", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"},{"artist": "Mr. Sanklapsh", "song": "Gullati giultatinino", "youtube_url": "https://www.youtube.com/watch?v=MwkJMOoAi-M"}]'
+        songs = $.parseJSON(json)
+        loadSongs(songs)
+        $("#input-search").keyup(filterSongs)
+        effectFadeIn('#subtitle', 200);      
+      });
+    </script>    
+  </body>
+</html>
