@@ -17,7 +17,7 @@ function loadSongs(songs) {
     $('#'+song.id)
   })
   $('.player .cover-img img').hover(playerHoverIn, playerHoverOut)
-  $(".youtube").YouTubeModal({autoplay:0, width:640, height:480});
+  $(".youtube").YouTubeModal({autoplay:1, width:640, height:480});
 }
 
 function filterSongs(event) {
